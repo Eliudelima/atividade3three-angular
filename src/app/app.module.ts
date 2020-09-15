@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
 import { RouterModule } from '@angular/router';
 import { HomeComponent } from './home/home.component';
-
+import { GitComponent } from './git/git.component';
 
 
 
@@ -17,8 +17,8 @@ import { HomeComponent } from './home/home.component';
     FormsModule,
     RouterModule.forRoot([
       {path: '', component: HomeComponent},
-     
-       
+      {path: 'git', component: GitComponent},
+            
     ])
   ],
   declarations: [ AppComponent, HelloComponent, HomeComponent],
