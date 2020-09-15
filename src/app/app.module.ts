@@ -4,12 +4,24 @@ import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
+import { RouterModule } from '@angular/router';
 import { HomeComponent } from './home/home.component';
-import { GitComponent } from './git/git.component';
+
+
+
+
 
 @NgModule({
-  imports:      [ BrowserModule, FormsModule ],
-  declarations: [ AppComponent, HelloComponent, HomeComponent, GitComponent ],
+  imports:      [ 
+    BrowserModule, 
+    FormsModule,
+    RouterModule.forRoot([
+      {path: '', component: HomeComponent},
+     
+       
+    ])
+  ],
+  declarations: [ AppComponent, HelloComponent, HomeComponent],
   bootstrap:    [ AppComponent ]
 })
 export class AppModule { }
