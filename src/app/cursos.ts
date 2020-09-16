@@ -1,8 +1,19 @@
 export const cursos = [
   {
-    title:"Criação de Empresas para Internet",
-    semestre: "1ºCiclo",
-    nota: 19 
+    title:"1ºSemestre (2018)",
+    head: ['Nome', 'Idade', 'Status da Pessoa'],
+    body: [
+      {
+        nome: 'Jonathan',
+        idade: 22,
+        status: 'Pendente'
+      },
+      {
+        nome: 'Jonathan',
+        idade: 22,
+        status: 'Pendente'
+      }
+    ]
   },
   {
     title:"Desenvolvimento para Servidores II",
