@@ -2,8 +2,17 @@ ul.none {
 	list-style-type: none;
 	}
   .center {
- display: block;
+  padding: 60px;
+  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+.link{
+text-decoration:none;
+color:black;
+}
+.link:hover{
+text-decoration:none;
+color:rgb(204, 32, 61);
 }
