@@ -1,7 +1,8 @@
 import { Component, OnInit } from '@angular/core';
+
 import {HttpClientModule, HttpClient} from '@angular/common/http';
 
-// Interface
+
 interface Response {
   name:String,
   full_name:String,

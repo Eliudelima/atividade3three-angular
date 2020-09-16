@@ -75,13 +75,5 @@ main {
     background: red;
 }
 
-footer {
-    display: flex;
-    justify-content: center;
-}
 
-footer p {
-    margin-top: 20px;
-    color: #fff;
-    font-size: 1.2em;
-}
+
