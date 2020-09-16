@@ -22,6 +22,11 @@ import { DisciplinasCursoComponent } from './disciplinas-curso/disciplinas-curso
    
     RouterModule.forRoot([
       {path: '', component: HomeComponent},
+      {path: 'disciplinas-details', component: DisciplinasDetailsComponent}, 
+      {path: 'disciplinas-list', component: DisciplinasListComponent}, 
+      {path: 'disciplina', component: DisciplinasListComponent}, 
+      {path: 'disciplina/:index', component: DisciplinasDetailsComponent},
+      {path: 'disciplinas-curso', component: DisciplinasDetailsComponent},   
    
             
     ])
