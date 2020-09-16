@@ -1,6 +1,6 @@
 <h2>cursos</h2>
 <div *ngFor="let curso of list, index as i">
   <a [routerLink] = "['/cursos', i]">
-    {{cursos.title}}
+    {{curso.title}}
   </a>
 </div>
