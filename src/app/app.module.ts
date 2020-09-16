@@ -9,7 +9,7 @@ import { HomeComponent } from './home/home.component';
 import { DisciplinasListComponent } from './disciplinas-list/disciplinas-list.component';
 import { DisciplinasDetailsComponent } from './disciplinas-details/disciplinas-details.component';
 import { CursoListComponent } from './curso-list/curso-list.component';
-import { CursoDetailsComponent } from './curso-details/curso-details.component';
+import { CursoDetailsComponent} from './curso-details/curso-details.component';
 
 
 
