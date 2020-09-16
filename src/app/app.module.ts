@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms';
+import {HttpClientModule} from '@angular/common/http';
 
 import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
@@ -15,13 +16,15 @@ import { GitComponent } from './git/git.component';
   imports:      [ 
     BrowserModule, 
     FormsModule,
+    HttpClientModule,
     RouterModule.forRoot([
       {path: '', component: HomeComponent},
       {path: 'git', component: GitComponent},
             
     ])
   ],
-  declarations: [ AppComponent, HelloComponent, HomeComponent],
+  declarations: [ AppComponent, HelloComponent, HomeComponent, GitComponent],
   bootstrap:    [ AppComponent ]
 })
+
 export class AppModule { }
