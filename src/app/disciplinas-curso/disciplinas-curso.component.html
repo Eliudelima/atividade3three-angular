@@ -1,0 +1,12 @@
+<ul>
+  <li *ngFor="let disci of disciplinas">
+
+      <!-- HERE: add a element with click event binding -->
+      <a href="#" (click)="selectDisci(disci)">
+        {{disci.name}} 
+      </a>
+
+  </li>
+</ul>
+
+<app-disci-details [disci]="selectedDisci"></app-disci-details>
