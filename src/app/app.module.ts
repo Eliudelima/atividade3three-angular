@@ -31,6 +31,7 @@ import { CursoDetailsComponent} from './curso-details/curso-details.component';
       {path: 'disciplina/:index', component: DisciplinasDetailsComponent},
       {path: 'curso-details', component: CursoDetailsComponent},
       {path: 'curso-list', component: CursoListComponent},
+       {path: 'cursos', component: CursoListComponent}, 
       {path: 'cursos/:index', component: CursoDetailsComponent},
        
    
