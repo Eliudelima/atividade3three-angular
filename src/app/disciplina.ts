@@ -106,78 +106,93 @@ export const disciplina = [
     objetivo: "Apresentar recursos avançados para criação de aplicativos com Banco de dados"
   },
   {
-    title:"Projeto de Trabalho de Graduação em Sistemas para Internet II ",
-    ementa: "Elaboração de portfólios e técnicas profissionais de apresentação",
-    objetivo: ""
+    title:"Desenvolvimento para servidores I",
+    ementa: "PHP histórico e emprego. Instalação e configuração básica do PHP e um IDE. Sintaxe básica do PHP. Usando o PHP como um mecanismo de modelo simples. Panorama das melhores práticas com PHP. Conceitos de programação HTTP. Codificação de caracteres. Localidades, fusos horários e funções de tempo. Strings. Uso de Array e funções de matriz. Orientação a objetos em PHP (Classes, objetos, herança, encapsulamento, polimorfismo, agregação, composição e métodos). Tratamento de exceções de erro. Arquitetura do lado do servidor. Manipulação de dados postados. Enviando e-mail. Sessões e autenticação. Cookies. Arquivo manuseio e armazenamento de dados em arquivos de texto. Gerenciador de banco de dados e suas funções. Frameworks. Web Services, API, RSS, JSON e Ajax. Hospedagem compartilhada.",
+    objetivo: "Esta disciplina fornecerá uma visão geral da linguagem script PHP associado a um gerenciador de banco de dados que utilize a linguagem SQL e como usar essas tecnologias para gerar sites dinâmicos. Introduzir práticas de codificação seguras"
   },
   {
-    title:"Projeto de Trabalho de Graduação em Sistemas para Internet II ",
-    ementa: "Elaboração de portfólios e técnicas profissionais de apresentação",
-    objetivo: ""
+    title:"Projeto de navegação e Interação ",
+    ementa: "Arquitetura de Informação. Levantamento de requisitos / conteúdo Web. Definição do projeto: organização e estrutura de interação. Estrutura de processo. Design de interação. O princípio do projeto da UX. Definição do produto e público. Pesquisa de usuário. Personas. Métodos de investigação e avaliação. Projeto conceitual. Design detalhado. Design da experiência do usuário e otimização de site de busca. Transição da definição para a projeção. Mapas do site e fluxos de tarefa. Prototipagem light. Wireframes e anotações. Teste do design com usuários. Transição do design ao desenvolviment",
+    objetivo: "Apresentar aos estudantes os princípios fundamentais e metodologias de Arquitetura da Informação e do Design da interação com usuário para definir um projeto de software para Internet em termos de sua finalidade, escopo, audiência, elementos principais, fluxos de tarefas, layout, etc. Padrões de projeto. Frameworks serão introduzidos a fim de criar interfaces que mapeiem as expectativas dos usuários e melhorem a experiência do usuário (UX), incluindo levantamentos de requisitos com usuários, avaliação de conteúdo e de organização, documentação de processos no âmbito dos sistemas, definição de estruturas organizacionais e desenvolvimento de protótipos interativos."
   },
   {
-    title:"Projeto de Trabalho de Graduação em Sistemas para Internet II ",
-    ementa: "Elaboração de portfólios e técnicas profissionais de apresentação",
-    objetivo: ""
+    title:"Prática de Gestão de Projetos ",
+    ementa: "Definição de projeto segundo concepção difundida pelas melhores práticas de gestão de projetos. Histórico do desenvolvimento do conjunto de conhecimentos de gestão de projetos. O ciclo de vida de um projeto (concepção, programação, execução, controle e encerramento). Os fatores de sucesso e insucesso de projetos e sua mensuração. Componentes da gestão de projetos: projeto, clientes e equipe. Plano de qualidade. Gestão de integração, escopo, tempo, custos, riscos, recursos humanos, comunicação e qualidade de projetos.",
+    objetivo: "Conhecer e aplicar técnicas, métodos e ferramentas para uma gestão eficaz de projetos nas suas diferentes facetas, incluindo a equipe de gestão e interações com o cliente. Discutir gestão de equipes multidisciplinares em design e produção de sítios Internet."
   },
   {
-    title:"Projeto de Trabalho de Graduação em Sistemas para Internet II ",
-    ementa: "Elaboração de portfólios e técnicas profissionais de apresentação",
-    objetivo: ""
+    title:"Segurança em sistemas para Internet",
+    ementa: "Conceitos básicos de segurança da informação. Criptografia, conceitos e uso. Segurança da infraestrutura e das aplicações. Tópicos em desenvolvimento de aplicações seguras. Aspectos legais: validade do documento eletrônico, assinaturas digitais, datação e Infraestrutura de Chave Pública. Aspectos gerenciais: metodologias práticas e normativas referentes às boas práticas de segurança da informação em sistemas diversos, norma ISO/IEC 17799 (família 27.000). Preparação para a implementação, manutenção, monitoramento e melhoria da segurança da informação consistente com a cultura organizacional. Requisitos de segurança da informação: análise; avaliação e gestão de riscos.",
+    objetivo: "Apresentar e discutir as questões relativas à segurança da informação."
   },
   {
-    title:"Projeto de Trabalho de Graduação em Sistemas para Internet II ",
-    ementa: "Elaboração de portfólios e técnicas profissionais de apresentação",
-    objetivo: ""
+    title:"Tópicos especiais em sistemas para Internet I ",
+    ementa: "Recursos e aplicações da tecnologia escolhida",
+    objetivo: "Apresentar tecnologias ainda não estudadas ou aprofundar algum tema já visto definido pela coordenadoria do curso em cada unidade"
   },
   {
-    title:"Projeto de Trabalho de Graduação em Sistemas para Internet II ",
-    ementa: "Elaboração de portfólios e técnicas profissionais de apresentação",
-    objetivo: ""
+    title:"Desenvolvimento para Servidores II ",
+    ementa: "Conceitos e evolução das tecnologias de programação de servidores. Recursos da linguagem escolhida para servidores na Internet. Padrões de projetos. Integração com sistemas (Google Maps API, Twitter, entre outros)",
+    objetivo: "Desenvolver um site completo de e-commerce ou outro tipo de negócio na Internet usando uma linguagem apropriada a servidores, banco de dados e padrões de projeto."
   },
   {
-    title:"Projeto de Trabalho de Graduação em Sistemas para Internet II ",
-    ementa: "Elaboração de portfólios e técnicas profissionais de apresentação",
-    objetivo: ""
+    title:"Desenvolvimento para dispositivos móveis I",
+    ementa: "Introdução e conceitos. Recursos disponíveis para dispositivos móveis na linguagem de marcação de textos. Uso de algum ambiente de desenvolvimento: configuração do ambiente; emulação de dispositivos móveis nos computadores pessoais; interface gráfica; serviços disponíveis; banco de dados nos dispositivos. Desenvolvimento de aplicações que utilizam dados de geolocalização. Integração entre sistemas remotos.",
+    objetivo: "Apresentar as tecnologias de desenvolvimento de aplicativos para dispositivos móveis."
   },
   {
-    title:"Projeto de Trabalho de Graduação em Sistemas para Internet II ",
-    ementa: "Elaboração de portfólios e técnicas profissionais de apresentação",
-    objetivo: ""
+    title:"Negócios e Marketing Eletrônicos",
+    ementa: "Conceitos de marketing e de marketing digital. O comportamento do consumidor on-line. Marketing de conteúdo. Marketing nas mídias sociais. E-mail marketing. Marketing viral. Publicidade on-line. Pesquisa de marketing on-line. Marketing e os negócios na Internet. Estudos de caso.",
+    objetivo: "Apresentar e discutir as questões do marketing na era da Internet. Abordar as principais estratégias, ações, ferramentas e mídias presentes na Web."
   },
   {
-    title:"Projeto de Trabalho de Graduação em Sistemas para Internet II ",
-    ementa: "Elaboração de portfólios e técnicas profissionais de apresentação",
-    objetivo: ""
+    title:"Projeto de prototipagem e testes de Usabilidade",
+    ementa: "Conceitos, métodos de prototipagem e ferramentas de teste de protótipos. Conceitos de usabilidade e estratégias de design. Métodos de teste de usabilidade. Planejamento de teste de usabilidade. Recrutamento. Projeto de usabilidade. Plano de teste. Sessão de teste de usabilidade. Análise de dados. Comunicação dos resultados. Variação de técnicas.",
+    objetivo: "Aprofundar os conceitos de design da usabilidade e métodos de ensaio para mídia interativa. Usabilidade baseada na adaptação de design de interface para uma experiência do usuário mais eficaz. Apresentar e usar diferentes métodos e ferramentas de prototipagem para explorar com os colegas de equipe ou clientes: conceitos de design, comunicação e testes de usabilidade."
   },
   {
-    title:"Projeto de Trabalho de Graduação em Sistemas para Internet II ",
-    ementa: "Elaboração de portfólios e técnicas profissionais de apresentação",
-    objetivo: ""
+    title:"Projeto do trabalho de graduação em Sistemas",
+    ementa: "Conceito de portfólio no âmbito da educação superior. Planejamento e organização de portfólios.",
+    objetivo: "Apoiar o estudante na organização de seu portfólio de projetos desenvolvidos ao longo do curso."
   },
   {
-    title:"Projeto de Trabalho de Graduação em Sistemas para Internet II ",
-    ementa: "Elaboração de portfólios e técnicas profissionais de apresentação",
-    objetivo: ""
+    title:"Tópicos Especiais em Sistemas para Internet II ",
+    ementa: "Recursos e aplicações da tecnologia escolhida. ",
+    objetivo: "Apresentar tecnologias ainda não estudadas ou aprofundar algum tema já visto definido pela coordenadoria do curso em cada unidade."
   },
   {
-    title:"Projeto de Trabalho de Graduação em Sistemas para Internet II ",
-    ementa: "Elaboração de portfólios e técnicas profissionais de apresentação",
-    objetivo: ""
+    title:"Arquitetura orientada a serviços",
+    ementa: "Construção de aplicações por meio da utilização de arquitetura orientada a serviços – SOA (Service-Oriented Architecture) e das principais tecnologias Web Services.",
+    objetivo: "Discutir tecnologias associadas a SOA (Services Oriented Architecture)"
   },
   {
-    title:"Projeto de Trabalho de Graduação em Sistemas para Internet II ",
-    ementa: "Elaboração de portfólios e técnicas profissionais de apresentação",
-    objetivo: ""
+    title:"Criação de empresas para Internet ",
+    ementa: "O planejamento de um projeto de negócios para Internet. Implantação e implementação de projetos de negócios. Administração de custos e dos prazos de implantação em projetos. Identificação de oportunidades de investimentos. Analise de mercado. Desenvolvimento e implementação de negócios. Finanças de um projeto de Investimentos. Análise de sensibilidade. Empreendedorismo e inovação: liderança estratégica. Administração participativa e os novos modelos de administração. Principais funções administrativas e respectivos sistemas de informação. Mecanismos e procedimentos para criação de empresas. Criação de empresas focadas na Internet. Computação em Nuvem - estratégias e modelos. Formular e selecionar estratégias e modelos baseados em computação em nuvem. Análise dos pontos positivos e negativos dessa abordagem de negócios.",
+    objetivo: "Fornecer ao estudante o estado da arte a respeito dos conhecimentos sobre empreendedorismo, inovação e criação de novos negócios para Internet."
   },
   {
-    title:"Projeto de Trabalho de Graduação em Sistemas para Internet II ",
-    ementa: "Elaboração de portfólios e técnicas profissionais de apresentação",
-    objetivo: ""
+    title:"Desenvolvimento para dispositivos móveis II ",
+    ementa: "Uso de algum ambiente de desenvolvimento (framework) em plataforma proprietária: configuração do ambiente; emulação de dispositivos móveis nos computadores pessoais; interface gráfica; serviços disponíveis; banco de dados nos dispositivos. Desenvolvimento de aplicativos com uso de frameworks",
+    objetivo: "Discutir tecnologias de desenvolvimento de aplicativos para dispositivos móveis em alguma plataforma proprietária."
   },
   {
-    title:"Projeto de Trabalho de Graduação em Sistemas para Internet II ",
-    ementa: "Elaboração de portfólios e técnicas profissionais de apresentação",
-    objetivo: ""
+    title:"Inglês VI",
+    ementa: "Aprimoramento da compreensão e produção oral e escrita por meio da integração das habilidades linguístico-comunicativas. Ênfase na oralidade, atendendo às especificidades acadêmicoprofissionais da área e abordando aspectos socioculturais da língua inglesa.",
+    objetivo: "Apresentar os recursos do idioma necessários à compreensão e produção oral e escrita por meio da integração das habilidades linguístico-comunicativas."
+  },
+  {
+    title:"Projeto de encontrabilidade",
+    ementa: "Teoria Geral. Marcação para encontrabilidade. Microformatos. Conteúdo. Rede Social. Estratégias Server-Side. Como evitar armadilhas de encontrabilidade. Pesquisas. Análises.",
+    objetivo: "Explorar estratégias que direcionam o tráfego para um site, ajudam os usuários a encontrar conteúdo dentro de um site e encorajam consultas de retorno. Discutir os Métodos de Otimização de Search Engine (SEO), estratégias de marketing, análise de tráfego e teoria em torno comportamento de busca. Investigar as relações entre usabilidade, acessibilidade, arquitetura da informação, marketing, e encontrabilidade, a fim de implementar estratégias para a criação de conteúdo encontrável."
+  },
+  {
+    title:"Projeto de trabalho de graduação em sistemas ",
+    ementa: "Elaboração de portfólios e técnicas profissionais de apresentação.",
+    objetivo: "Apoiar o estudante na confecção de seu portfólio de projetos desenvolvidos ao longo do curso."
+  },
+  {
+    title:"Tópicos especiais em sistemas para Internet I",
+    ementa: "Recursos e aplicações da tecnologia escolhida.",
+    objetivo: "Apresentar tecnologias ainda não estudadas ou aprofundar algum tema já visto definido pela coordenadoria do curso em cada unidade."
   }
 ]
