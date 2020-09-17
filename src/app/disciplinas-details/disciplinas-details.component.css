@@ -6,3 +6,7 @@ color:black;
 text-decoration:none;
 color:rgb(204, 32, 61);
 }
+.word{
+  font-weight: 900;
+  font-size: 20px;
+}
