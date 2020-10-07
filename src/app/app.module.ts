@@ -11,13 +11,6 @@ import { DisciplinasDetailsComponent } from './disciplinas-details/disciplinas-d
 import { CursoListComponent } from './curso-list/curso-list.component';
 import { CursoDetailsComponent} from './curso-details/curso-details.component';
 
-
-
-
-
-
-
-
 @NgModule({
   imports:      [ 
     BrowserModule, 
